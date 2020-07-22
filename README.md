@@ -8,4 +8,3 @@
 - 📫 How to reach me: [Twitter - @husseinsalat12](https://twitter.com/Husseinsalat12).
 - 😄 Pronouns: Hussny or Salat.
 - ⚡ Fun fact: Basketball is my OG.
--->
