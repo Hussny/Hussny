@@ -1,6 +1,6 @@
 ### Hola I'm Hussein Salat 👋
 
-- 🔭 I’m currently working on #100daysofJavaScript.
+- 🔭 I’m currently working on #100daysofJavaScript & Creating  Personal Portfolio.
 - 🌱 I’m currently learning Node JS, React.
 - 👯 I’m looking to collaborate on Twitter.
 - 🤔 I’m looking for help with ML.
