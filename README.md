@@ -5,16 +5,9 @@
 - 👯 I’m looking to collaborate on Twitter.
 - 🤔 I’m looking for help with ML.
 - 💬 Ask me about Python or any tech related stuff.
-- <img align="left" alt="husseinsalat12 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<br /> [Twitter - @husseinsalat12](https://twitter.com/Husseinsalat12).
+- 📫 How to reach me: [Twitter - @husseinsalat12](https://twitter.com/Husseinsalat12).
 - 😄 Pronouns: Hussny or Salat.
 - ⚡ Fun fact: Basketball is my OG.
-
-
-### Connect with me:
-
-<img align="left" alt="husseinsalat12 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<br />
 
 ### Languages and Tools:
 
