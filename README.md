@@ -30,5 +30,4 @@
 <br />
 <br />
 
-<img align="left" alt="Hussny Github Stats" src="https://github-readme-stats.vercel.app/api?username=hussny_icons=true&hide_border=true />
 
