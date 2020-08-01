@@ -33,6 +33,6 @@
 <br />
 <br />
 
-![Hussny's github stats](https://github-readme-stats.vercel.app/api?username=Hussny&show_icons=true)
+
 ![Hussny's github stats](https://github-readme-stats.vercel.app/api?username=Hussny&show_icons=true&theme=radical)
 
