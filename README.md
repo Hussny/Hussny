@@ -9,6 +9,7 @@
 - 😄 Pronouns: Hussny or Salat.
 - ⚡ Fun fact: Basketball is my OG.
 
+### View
 [![HitCount](http://hits.dwyl.com/Hussny/Hussny.svg)](http://hits.dwyl.com/Hussny/Hussny)
 
 ### Languages and Tools:
