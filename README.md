@@ -34,6 +34,7 @@
 <br />
 
 [![Hussny's github stats](https://github-readme-stats.vercel.app/api?username=Hussny&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Hussny's github stats](https://github-readme-stats.vercel.app/api?username=Hussny&show_icons=true)
 
 
 
