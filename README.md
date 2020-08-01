@@ -35,5 +35,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hussny&theme=radical)](https://github.com/Hussny/github-readme-stats)
 ![Hussny's github stats](https://github-readme-stats.vercel.app/api?username=Hussny&show_icons=true&theme=radical)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hussny&repo=github-readme-stats)](https://github.com/Hussny/github-readme-stats)
 
 
