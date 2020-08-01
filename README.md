@@ -35,10 +35,5 @@
 
 
 ![Hussny's github stats](https://github-readme-stats.vercel.app/api?username=Hussny&show_icons=true&theme=radical)
-<a href="https://github.com/Hussny/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Hussny&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Hussny/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Hussny&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hussny&layout=compact)](https://github.com/Hussny/github-readme-stats)
 
