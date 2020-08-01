@@ -33,7 +33,7 @@
 <br />
 <br />
 
-![Hussny's github stats](https://github-readme-stats.vercel.app/api?username=Hussny&hide=contribs,prs&theme=radical)
+![Hussny github stats](https://github-readme-stats.vercel.app/api?username=Hussny&hide=contribs,prs&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hussny&layout=compact&theme=radical)](https://github.com/Hussny/github-readme-stats)
 
 
