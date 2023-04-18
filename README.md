@@ -1,12 +1,11 @@
 ### Hola I'm Hussein Salat 👋
 
 - 🔭 I’m currently working on #100daysofPython.
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently learning Go.
 - 👯 I’m looking to collaborate on Twitter.
 - 🤔 I’m looking for help with ML.
 - 💬 Ask me about Python or any tech related stuff.
 - 📫 How to reach me: [Twitter - @husseinsalat12](https://twitter.com/Husseinsalat12).
-- 😄 Pronouns: Hussny or Salat.
 - ⚡ Fun fact: Basketball is my OG.
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
